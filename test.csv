@@ -1,0 +1,16 @@
+data_type,var_name
+class_name,person
+String,fname
+String,lname
+int,id
+class_name,student
+String,name
+double,gpa
+int,credHrs
+int,id
+class_name,employee
+String,firstName
+String,lastName
+double,salary
+int,empID
+double,hrsWrkd
